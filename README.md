@@ -163,4 +163,4 @@ git status (para comporbar los errores)
 
 39. Aceptar los pull-request que lleguen a los repositorios de tu organización.
 
-(img)
+<img src="./img/20.png"/>
