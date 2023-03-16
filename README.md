@@ -1,6 +1,6 @@
 1. Crear un repositorio en vuestro GitHub llamado **masteruah**.
 
-(img)
+<img src="./1.png">
 
 2. Clonar vuestro repositio en local.
 
