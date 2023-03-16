@@ -16,7 +16,7 @@ El documento README.md se creo automaticamente al crear el repositorio.
   
 git commit -m "commit inicial"
 
-5. Subir los cambios al repositorio remoto.
+5. Subir los cambios al repositorio remoto.n llamada **masteruah-tunombredeusua
 
 git push
 
