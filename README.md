@@ -117,7 +117,11 @@ git status (para comporbar los errores)
 29. Poner a [github.com/i12vecaj](http://github.com/i12vecaj) como colaborador
   del repositorio **masteruah**
   
-(img)
+<img src="./img/8.png"/>
+
+30. Crear una organización llamada **masteruah-tunombredeusuariodegithub**
+
+<img src="./img/9.png"/>
 
 
 
