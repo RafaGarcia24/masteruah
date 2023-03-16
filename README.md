@@ -132,33 +132,34 @@ git status (para comporbar los errores)
 32. Meter a Alvaro y a 2 de vuestros
   compañeros de clase en el equipo **administradores**.
 
-<img src="./img/12.png"/>
+<img src="./img/12b.png"/>
 
 33. Meter a Alvaro y a otros 2 de vuestros
   compañeros de clase en el equipo **colaboradores**.
 
-<img src="./img/13.png"/>
+<img src="./img/13b.png"/>
 
 34. Crear un index.html que se pueda ver como página web en la organización.
 
-(img)
+<img src="./img/14.png"/>
 
 35. Hacer 2 forks de 2 repositorios **masteruah-tunombredeusuariodegithub.github.io**
   de 2 organizaciones de las que no seais ni administradiores ni colaboradores.
   
-  (img)
+<img src="./img/18.png"/>
+<img src="./img/19.png"/>
 
 36. Crearos una rama en cada fork.
 
-(img)
+<img src="./img/17.png"/>
 
 37. En cada rama modificar el fichero **index.html** añadiendo vuestro nombre.
 
-(img)
+<img src="./img/16.png"/>
 
 38. Con cada rama hacer un pull-request.
 
-(img)
+<img src="./img/15.png"/>
 
 39. Aceptar los pull-request que lleguen a los repositorios de tu organización.
 
