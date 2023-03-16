@@ -107,3 +107,26 @@ git branch -D v0.2
 
 <img src="./img/7.png"/>
 
+28.Crear una tabla de este estilo en el fichero **README.md** con la información
+  de varios de tus compañeros de clase
+
+|        NOMBRE          |                           GITHUB                        |
+|------------------------|---------------------------------------------------------|
+| Lydia Moya Ruiz | [enlace a github](https://github.com/lydiamoyar/masteruah.git) |
+
+29. Poner a [github.com/i12vecaj](http://github.com/i12vecaj) como colaborador
+  del repositorio **masteruah**
+  
+(img)
+
+
+
+
+
+
+
+
+
+
+
+
