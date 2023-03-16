@@ -73,7 +73,7 @@ Sin merge: git branch --no-merge
 19. Arreglar el conflicto anterior y hacer un commit.
 
 vim (nombre del archivo que da conflicto)
-(img)
+<img src="./img/2.png"/>
 
 20. Crear un tag **v0.2**
 
@@ -89,21 +89,21 @@ git branch -D v0.2
 
 23. Poner una foto en vuestro perfil de GitHub.
 
-(img)
+<img src="./img/3.png"/>
 
 24. Poner el doble factor de autentificación en vuestra cuenta de GitHub.
 
-(img)
+<img src="./img/4.png"/>
 
 25. Añadir (si no lo habéis hecho ya) la clave pública que se corresponde a tu ordenador.
 
-(img)
+<img src="./img/5.png"/>
 
 26. Preguntar los nombres de usuario de GitHub de tus compañeros de trabajo en grupo, búscalos, y sigueles.
 
-(img)
+<img src="./img/6.png"/>
 
 27. Añadir una estrella a los repositorios del resto de tus compañeros.
 
-(img)
+<img src="./img/7.png"/>
 
