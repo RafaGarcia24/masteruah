@@ -114,23 +114,52 @@ git status (para comporbar los errores)
 |------------------------|---------------------------------------------------------|
 | Lydia Moya Ruiz | [enlace a github](https://github.com/lydiamoyar/masteruah.git) |
 
-29. Poner a [github.com/i12vecaj](http://github.com/i12vecaj) como colaborador
+29. Poner a Alvaro como colaborador
   del repositorio **masteruah**
   
-<img src="./img/8.png"/>
+  (<img src="./img/8.png"/>
 
 30. Crear una organización llamada **masteruah-tunombredeusuariodegithub**
 
 <img src="./img/9.png"/>
 
+31. Crear 2 equipos en la organización **masteruah-tunombredeusuariodegithub**,
+  uno llamado **administradores** con más permisos y otro **colaboradores** con menos permisos.
 
- 
+(img)
+(img)
 
+32. Meter a Alvaro y a 2 de vuestros
+  compañeros de clase en el equipo **administradores**.
 
+(img)
 
+33. Meter a Alvaro y a otros 2 de vuestros
+  compañeros de clase en el equipo **colaboradores**.
 
+(img)
 
+34. Crear un index.html que se pueda ver como página web en la organización.
 
+(img)
 
+35. Hacer 2 forks de 2 repositorios **masteruah-tunombredeusuariodegithub.github.io**
+  de 2 organizaciones de las que no seais ni administradiores ni colaboradores.
+  
+  (img)
 
+36. Crearos una rama en cada fork.
 
+(img)
+
+37. En cada rama modificar el fichero **index.html** añadiendo vuestro nombre.
+
+(img)
+
+38. Con cada rama hacer un pull-request.
+
+(img)
+
+39. Aceptar los pull-request que lleguen a los repositorios de tu organización.
+
+(img)
