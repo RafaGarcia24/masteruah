@@ -126,18 +126,18 @@ git status (para comporbar los errores)
 31. Crear 2 equipos en la organización **masteruah-tunombredeusuariodegithub**,
   uno llamado **administradores** con más permisos y otro **colaboradores** con menos permisos.
 
-(img)
-(img)
+<img src="./img/10.png"/>
+<img src="./img/11.png"/>
 
 32. Meter a Alvaro y a 2 de vuestros
   compañeros de clase en el equipo **administradores**.
 
-(img)
+<img src="./img/12.png"/>
 
 33. Meter a Alvaro y a otros 2 de vuestros
   compañeros de clase en el equipo **colaboradores**.
 
-(img)
+<img src="./img/13.png"/>
 
 34. Crear un index.html que se pueda ver como página web en la organización.
 
