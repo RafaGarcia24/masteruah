@@ -85,7 +85,7 @@ git branch -D v0.2
 
 22. Listar los distintos commits con sus ramas y sus tags.
 
-
+git status (para comporbar los errores)
 
 23. Poner una foto en vuestro perfil de GitHub.
 
