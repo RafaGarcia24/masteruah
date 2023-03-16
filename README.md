@@ -117,7 +117,7 @@ git status (para comporbar los errores)
 29. Poner a Alvaro como colaborador
   del repositorio **masteruah**
   
-  (<img src="./img/8.png"/>
+  (<img src="./img/8b.png"/>
 
 30. Crear una organización llamada **masteruah-tunombredeusuariodegithub**
 
