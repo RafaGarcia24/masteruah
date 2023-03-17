@@ -110,9 +110,13 @@ git log --oneline
 28.Crear una tabla de este estilo en el fichero **README.md** con la información
   de varios de tus compañeros de clase
 
-|        NOMBRE          |                           GITHUB                        |
-|------------------------|---------------------------------------------------------|
-| Lydia Moya Ruiz | [enlace a github](https://github.com/lydiamoyar/masteruah.git) |
+|        NOMBRE          |                     GITHUB                         |
+|------------------------|----------------------------------------------------|
+| Javier Gómez 			     | [jalefrcracker](https://github.com/JLFcmd) 		    |
+| Rafael García          | [Rafagarcia24](https://github.com/RafaGarcia24 )   |
+| Lydia Moya             | [lydiamoyar](https://github.com/lydiamoyar)        |
+| Alejandro Sánchez 	   | [AlexSancheez02](https://github.com/AlexSancheez02)|
+| Juan Manuel Porras 	   | [Juanma104](https://github.com/Juanma104) 		      |
 
 29. Poner a Alvaro como colaborador
   del repositorio **masteruah**
